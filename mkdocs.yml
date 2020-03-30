@@ -1,0 +1,8 @@
+site_name: WebServer Design de Software
+nav:
+    - Home: index.md
+    - Alunos: aluno.md
+    - Professores: professor.md
+    - Desenvolvedores: desenvolvedor.md
+    - Endpoints da API: api.md
+theme: readthedocs
